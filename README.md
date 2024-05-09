@@ -1,4 +1,4 @@
-#University Data Clustering with K-means
+# University Data Clustering with K-means
 
 Welcome to the University Data Clustering project! This repository contains an example implementation of K-means clustering applied to a university dataset. The goal of this project is to explore how universities can be grouped based on various features using the K-means algorithm. This project includes code for data preprocessing, clustering, and visualization.
 
@@ -24,3 +24,4 @@ The provided university dataset (universities.csv) includes various features suc
 
 Results
 The clustering script will generate visualizations of the clustered data, including scatter plots showing the groups of universities based on selected features. The project also outputs a summary of the clustering results.
+# Thank You
